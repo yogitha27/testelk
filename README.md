@@ -1,4 +1,4 @@
-# testelk
+# steps for installing and executing
 #for installing elastic search commands\
 wget -qO - https://artifacts.elastic.co/GPG-KEY-elasticsearch\
  sudo apt-key add\
